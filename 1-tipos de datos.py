@@ -1,4 +1,5 @@
 #Tipos de datos en python
+#Emily Torres
 #1. Tipo de dato numérico (int)
 edad = 25
 promedio = 19

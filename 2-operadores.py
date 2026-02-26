@@ -1,4 +1,5 @@
 #Operadores en python
+"Emily Torres"
 #1. Operadores aritmeticos
 suma = 5 + 5
 resta = 10 - 6
